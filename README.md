@@ -11,6 +11,7 @@ A proposta é que você cronometre e foque totalmente no que está executando at
 
 ![image](https://user-images.githubusercontent.com/84604788/124411258-300d5380-dd1a-11eb-983b-843a4b6ccaf3.png)
 
-![image](https://user-images.githubusercontent.com/84604788/124411350-58954d80-dd1a-11eb-8cca-9db7e4a382e6.png)
+![Pomodoro-Vitória](https://user-images.githubusercontent.com/84604788/124411489-a3af6080-dd1a-11eb-89d1-f249398ed067.jpeg)
+
 
 
