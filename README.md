@@ -8,3 +8,6 @@ A Técnica Pomodoro é um método para gerenciar o tempo que você utiliza para 
 A proposta é que você cronometre e foque totalmente no que está executando até que chegue o momento de sua pausa. Todo o método vai intercalando entre períodos estudados e intervalos de descanso. 
 
 É  utilizado um cronômetro para dividir o trabalho ou estudo em períodos de 25 minutos com breves intervalos entre eles.
+
+![image](https://user-images.githubusercontent.com/84604788/124411258-300d5380-dd1a-11eb-983b-843a4b6ccaf3.png)
+
