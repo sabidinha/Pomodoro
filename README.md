@@ -11,3 +11,6 @@ A proposta é que você cronometre e foque totalmente no que está executando at
 
 ![image](https://user-images.githubusercontent.com/84604788/124411258-300d5380-dd1a-11eb-983b-843a4b6ccaf3.png)
 
+![image](https://user-images.githubusercontent.com/84604788/124411350-58954d80-dd1a-11eb-8cca-9db7e4a382e6.png)
+
+
